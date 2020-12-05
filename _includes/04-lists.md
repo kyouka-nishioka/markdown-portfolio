@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Skills
+  * HTML
+  * CSS
+  * JavaScript
+  * React
+* Experience
+  * FreeCodeCamp
+  * Codecademy Pro
+  
